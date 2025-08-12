@@ -26,6 +26,7 @@ interface ColumnType {
   title: string;
   dataIndex?: string;
   key: string;
+  // eslint-disable-next-line @typescript-eslint/no-explicit-any
   render?: (text: any, record?: DataType) => React.ReactNode;
 }
 
