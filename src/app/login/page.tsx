@@ -72,15 +72,6 @@ const Login = () => {
       </Col>
 
       <S.LoginImageContainer span={12}>
-        {/* <S.LoginQuote>
-          <S.QuoteTitle level={3}>
-            Digital Fortress has been a game-changer for our content creation process.
-          </S.QuoteTitle>
-          <S.QuoteText>
-            The AI-powered tools are incredibly user-friendly and have saved us countless hours of work.
-          </S.QuoteText>
-          <S.QuoteText>- Lily Alisson, CMO at Digital Fortress</S.QuoteText>
-        </S.LoginQuote> */}
       </S.LoginImageContainer>
     </Row>
   );
